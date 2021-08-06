@@ -1,0 +1,1 @@
+# Unity-MRTK-Cropping-Error
